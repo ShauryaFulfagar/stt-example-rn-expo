@@ -60,6 +60,6 @@ ngrok http 5000
 
 ## License
 
-This project is licensed under the MIT License. You are free to use, modify, and distribute this code for personal, commercial, and open-source purposes without the need for attribution.
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. You may use, adapt, and share this work for non-commercial purposes, but for commercial use, explicit permission is required.
 
 See the [LICENSE](/LICENSE) file for more details.
