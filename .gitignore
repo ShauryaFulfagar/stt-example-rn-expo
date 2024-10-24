@@ -33,3 +33,6 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+/stt-api/stt-venv
+/stt-api/__pycache__
+/stt-api/.idea
