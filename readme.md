@@ -29,9 +29,21 @@ Under `./stt-api` to create a virtual environment, install dependencies and run 
 
 ```bash
 cd stt-api
+```
+
+```bash
 python -m venv <Name of your environment>
+```
+
+```bash
 source <Name of your environment>/bin/activate
+```
+
+```bash
 pip install -r requirements.txt
+```
+
+```bash
 python app-whisper.py
 ```
 
@@ -50,4 +62,4 @@ ngrok http 5000
 
 This project is licensed under the MIT License. You are free to use, modify, and distribute this code for personal, commercial, and open-source purposes without the need for attribution.
 
-See the [LICENSE](./LICENSE) file for more details.
+See the [LICENSE](/LICENSE) file for more details.
