@@ -43,7 +43,7 @@ export default function App() {
 
   const sendAudioForTranscription = async (uri) => {
     setIsLoading(true);
-    const apiUrl = 'https://8515-122-162-145-231.ngrok-free.app/transcribe'; // Replace with your server IP
+    const apiUrl = 'https://6b6c-122-162-148-229.ngrok-free.app/transcribe';
 
     let formData = new FormData();
     formData.append('audio', {

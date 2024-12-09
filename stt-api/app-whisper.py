@@ -8,7 +8,7 @@ app = Flask(__name__)
 # Load the Whisper model
 # Change to base if innacurate
 # Can be to 'tiny', 'base' on CPU and 'small', 'medium' & 'large' on GPU
-model = whisper.load_model("tiny")
+model = whisper.load_model("base")
 
 # Ensure uploads directory exists
 UPLOAD_FOLDER = './uploads'
